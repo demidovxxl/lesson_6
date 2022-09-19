@@ -1,0 +1,274 @@
+/* -------------------------------- maze ------------------------------ */
+
+.lesson-content__maze-box{
+	font-size: 0;
+	width: 552px;
+	margin: 0 auto;
+	border: 4px solid #424551;
+	
+}
+.lesson-content__maze-box span{
+	display: inline-block;
+	background-color: rgb(255, 255, 255);
+	padding: 30px;
+	margin-bottom: -14px;
+	border: 4px solid #424551;
+}
+#lesson-content__maze-block1{
+	border-right: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block2{
+	border-left: 4px solid #fff;
+	border-right: 4px solid #fff;
+}
+#lesson-content__maze-block3{
+	border-left: 4px solid #fff;
+	border-right: 4px solid #fff;
+}
+#lesson-content__maze-block4{
+	border-left: 4px solid #fff;
+	border-right: 4px solid #fff;
+}
+#lesson-content__maze-block5{
+	border-left: 4px solid #fff;
+	border-right: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block6{
+	border-left: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block7{
+	border-right: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block8{
+	border-left: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block9{
+	border-top: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block10{
+	border-right: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block11{
+	border-left: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block12{
+	border-right: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block13{
+	border-left: 4px solid #fff;
+	border-top: 4px solid #fff;
+}
+#lesson-content__maze-block14{
+	border-right: 4px solid #fff;
+	border-top: 4px solid #fff;
+}
+#lesson-content__maze-block15{
+	border-left: 4px solid #fff;
+	border-top: 4px solid #fff;
+}
+#lesson-content__maze-block16{
+	border-top: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block17{
+	border-top: 4px solid #fff;
+	border-right: 4px solid #fff;
+}
+#lesson-content__maze-block18{
+	border-top: 4px solid #fff;
+	border-left: 4px solid #fff;
+}
+#lesson-content__maze-block19{
+	border-top: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block20{
+	border-top: 4px solid #fff;
+	border-right: 4px solid #fff;
+}
+#lesson-content__maze-block21{
+	border-left: 4px solid #fff;
+	border-right: 4px solid #fff;
+}
+#lesson-content__maze-block22{
+	border-left: 4px solid #fff;
+	border-right: 4px solid #fff;
+}
+#lesson-content__maze-block23{
+	border-left: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block24{
+	border-top: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block25{
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block26{
+	border-right: 4px solid #fff;
+}
+#lesson-content__maze-block27{
+	border-top: 4px solid #fff;
+	border-left: 4px solid #fff;
+	border-right: 4px solid #fff;
+}
+#lesson-content__maze-block28{
+	border-left: 4px solid #fff;
+	border-right: 4px solid #fff;
+}
+#lesson-content__maze-block29{
+	border-left: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block30{
+	border-bottom: 4px solid #fff;
+	border-right: 4px solid #fff;
+}
+#lesson-content__maze-block31{
+	border-left: 4px solid #fff;
+	border-top: 4px solid #fff;
+}
+#lesson-content__maze-block32{
+	border-top: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block33{
+	outline: 4px solid #fff;
+	border-top: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+	border-left: 4px solid #fff;
+}
+#lesson-content__maze-block34{
+	border-bottom: 4px solid #fff;
+	border-right: 4px solid #fff;
+}
+#lesson-content__maze-block35{
+	border-left: 4px solid #fff;
+	border-right: 4px solid #fff;
+}
+#lesson-content__maze-block36{
+	border-left: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block37{
+	border-top: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block38{
+	border-top: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block39{
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block40{
+	border-top: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block41{
+	border-top: 4px solid #fff;
+	border-right: 4px solid #fff;
+}
+#lesson-content__maze-block42{
+	border-top: 4px solid #fff;
+	border-left: 4px solid #fff;
+}
+#lesson-content__maze-block43{
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block44{
+	border-top: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block45{
+	border-top: 4px solid #fff;
+}
+#lesson-content__maze-block46{
+	border-bottom: 4px solid #fff;
+	border-top: 4px solid #fff;
+}
+#lesson-content__maze-block47{
+	border-right: 4px solid #fff;
+	border-top: 4px solid #fff;
+}
+#lesson-content__maze-block48{
+	outline: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+	border-right: 4px solid #fff;
+	border-top: 4px solid #fff;
+	border-left: 4px solid #fff;
+}
+#lesson-content__maze-block49{
+	border-bottom: 4px solid #fff;
+	border-right: 4px solid #fff;
+}
+#lesson-content__maze-block50{
+	border-right: 4px solid #fff;
+	border-left: 4px solid #fff;
+}
+#lesson-content__maze-block51{
+	border-top: 4px solid #fff;
+	border-left: 4px solid #fff;
+}
+#lesson-content__maze-block52{
+	border-top: 4px solid #fff;
+	border-right: 4px solid #fff;
+}
+#lesson-content__maze-block53{
+	border-left: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block54{
+	border-top: 4px solid #fff;
+	border-right: 4px solid #fff;
+}
+#lesson-content__maze-block55{
+	border-left: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block56{
+	border-top: 4px solid #fff;
+	border-bottom: 4px solid #fff;
+}
+#lesson-content__maze-block57{
+	border-top: 4px solid #fff;
+	border-right: 4px solid #fff;
+}
+#lesson-content__maze-block58{
+	border-right: 4px solid #fff;
+	border-left: 4px solid #fff;
+}
+#lesson-content__maze-block59{
+	border-right: 4px solid #fff;
+	border-left: 4px solid #fff;
+}
+#lesson-content__maze-block60{
+	border-right: 4px solid #fff;
+	border-left: 4px solid #fff;
+}
+#lesson-content__maze-block61{
+	border-right: 4px solid #fff;
+	border-left: 4px solid #fff;
+	border-top: 4px solid #fff;
+}
+#lesson-content__maze-block62{
+	border-right: 4px solid #fff;
+	border-left: 4px solid #fff;
+}
+#lesson-content__maze-block63 {
+	border-left: 4px solid #fff;
+	border-top: 4px solid #fff;
+}
+#lesson-content__maze-block64{
+	border-top: 4px solid #fff;
+}

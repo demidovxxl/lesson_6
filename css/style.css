@@ -1,0 +1,161 @@
+.page__article{
+	width: 850px;
+	padding: 40px 20px 20px 20px;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	box-shadow: 0px 0px 8px 6px rgba(34, 60, 80, 0.16);
+	
+}
+.page{
+	font-family: "Lato";
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+}
+h1{
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	color: #1E212C;
+	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	margin-bottom: 92px;
+}
+.main-content__text_black {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1E212C;
+	margin-bottom: 24px;
+}
+.main-content__text_quotes {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1E212C;
+	margin-bottom: 24px;
+	padding: 24px 0 24px 58px;
+}
+.main-content__image {
+	margin-bottom: 60px;
+}
+.main-content__text {
+	margin-bottom: 24px;
+}
+.main-content__list-block {
+	margin-bottom: 24px;
+	padding-left: 32px;
+}
+/* Знаю, что margin-top не желательно, но конструкция сюда хорошо подходит */
+.main-content__item~li{
+	margin-top: 4px;
+}
+
+/* ------------------------------------- mouse --------------------------------------- */
+.lesson-content__display{
+	font-family: "Lato";
+	font-size: 24px;
+	width: 1080px;
+	padding: 40px 20px 20px 20px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	box-shadow: 0px 0px 8px 6px rgba(34, 60, 80, 0.16);
+	border: 1px solid rgba(46, 43, 43, 0.467);
+	background-color: #0D080D;
+}
+
+h2{
+	font-weight: 700;
+	font-size: 32px;
+	color: rgb(213, 202, 202);
+	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	margin-bottom: 40px;
+	text-align: center;
+}
+.lesson-content__line{
+	font-size: 0;
+}
+.lesson-content__line span{
+	display: inline-block;
+	border-radius: 50% / 30% ;
+	width: 173px;
+	height: 20px;
+	margin: 0 auto 20px;
+	border-top: 3px solid rgb(154, 154, 154);
+	box-shadow: 2px 3px 4px -6px rgb(255, 255, 255);
+}
+.lesson-content__box span{
+	text-align: center;
+	display: block;
+	padding: 20px;
+	margin: 20px;
+	border-radius: 5px;
+	border: 2px solid rgba(255, 48, 48, 0.757);
+	background-color: #a6b390;
+}
+.lesson-content__box{
+	border: 2px dashed rgba(255, 48, 48, 0.757);
+	border-radius: 10px;
+}
+
+.lesson-content__maze{
+	font-family: "Lato";
+	font-size: 24px;
+	width: 1080px;
+	padding: 40px 20px 20px 20px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	box-shadow: 0px 0px 8px 6px rgba(34, 60, 80, 0.16);
+	border: 1px solid rgba(46, 43, 43, 0.467);
+}
+
+.lesson-content__title_black{
+	font-family: "Helvetica";
+	color: #424551;
+	text-align: center;
+}
+
+.lesson-content__display_mouse{
+	font-family: "Lato";
+	font-size: 24px;
+	width: 1080px;
+	padding: 40px 20px 20px 20px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	box-shadow: 0px 0px 8px 6px rgba(34, 60, 80, 0.16);
+	background-color: #000;
+}
+
+.lesson-content__image{
+	margin: 0 auto;
+}
+.main-content__mouse1{
+	width: 200px;
+}
+.main-content__mouse2{
+	width: 200px;
+	opacity: 0.75;
+}
+.main-content__mouse3{
+	width: 200px;
+	opacity: 0.5;
+}
+.main-content__mouse4{
+	width: 200px;
+	opacity: 0.25;
+}
+.main-content__mouse5{
+	width: 200px;
+	opacity: 0;
+}
+.main-content__mouse6{
+	width: 515px;
+	margin-left: auto;
+	visibility: hidden;
+}
+.main-content__mouse7{
+	width: 515px;
+	margin-right: auto;
+	opacity: 0;
+}
